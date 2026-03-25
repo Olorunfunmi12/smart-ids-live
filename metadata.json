@@ -1,0 +1,5 @@
+{
+  "name": "NIDS-CAN Dashboard",
+  "description": "A smart intrusion dashboard system based on Canadian datasets (CICIDS2017).",
+  "requestFramePermissions": []
+}
